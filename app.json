@@ -1,0 +1,8 @@
+{
+  "name": "Moe Gifts Api",
+  "description": "Moe Gifts Api to e-marketing",
+  "repository": "https://github.com/shadmaan-2170/dev-moe-gifts-api.git",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}

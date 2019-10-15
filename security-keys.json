@@ -1,0 +1,35 @@
+{
+    "secret" : "moe-gifts",
+    "audience" : "moe-gifts-api",
+    "opt": {
+      "apiKey": "92cd5cf5",
+      "apiSecret": "UhPTTFU0wL0WFu9G"
+    },
+    "session": {
+      "secret": "76b84904014d49cca642bba4c295a099"
+    },
+    "database": {
+      "dbhost": "",
+      "dbport": "27017",
+      "dbuser": "adminqwe",
+      "dbpass": "",
+      "dbname": "moegifts"
+    },
+    "mydropbox":{
+      "accesstoken":"",
+      "pathToBox":"/MoeImages/productimage",
+      "uploadResource":"files/upload",
+      "sharableurlResource":"sharing/create_shared_link_with_settings",
+      "delResource":"files/delete_V2"
+    },
+    "adminemail": "",
+    "emailpass": "",
+    "moegifts" : {
+      "dev" : {
+        "username" : "mohd.shadmaan@example.com"
+        ,"password" : "test@123"
+      },
+      "live" : {}
+    }
+  }
+  
